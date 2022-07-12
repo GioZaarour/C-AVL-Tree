@@ -1,3 +1,5 @@
+# AVL Tree Implementation in C++
+
 *How to run AVL or BST test operations with g++: (testing.cpp)
 
 note: must use --std=c++11 for dependency purposes
